@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AHS Orioles</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+    <!-- Other JavaScript plugins -->
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script src="js/jquery.backstretch.js"></script>
+    <script src="js/jquery.backstretch.min.js"></script>
+
+  
+    <!-- Stylesheet -->
+    
+    <!-- Home Page -->
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
+        <a class="navbar-brand" href="#intro">AHS Home</a> </div>
+    
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li class="hidden"> <a href="#page-top"></a> </li>
+                <li> <a href="#about">About</a> </li>
+                <li> <a href="#athletics">Athletics</a> </li>
+                <li> <a href="#clubs">Clubs</a> </li>
+                <li> <a href="#counselors">Counselors</a> </li>
+                <li> <a href="#staff">Staff</a> </li>
+                <li> <a href="#contact">Contact</a> </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Home -->
+<div id="intro" style="height:100%;">
+    <script>
+    //Slideshow
+        $.backstretch([
+            "assets/home/parallax.jpg",
+            "assets/home/parallax2.jpg",
+            "assets/home/parallax3.jpg",
+            "assets/home/parallax4.jpg"
+        ], {duration: 5000, fade: 2000});
+    </script>
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h1><span class="styled-heading">Augusta High School</span></h1>
+                    <p style="color:orange;">Current images are placeholders!</p>
+                    <br>
+                <a href="#about" class="btn btn-default page-scroll">Learn More</a> </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- About Section (Home) -->
+<div id="about">
+    <div class="container">
+      <div class="section-title text-center center">
+        <h2>About Us</h2>
+        <hr>
+      </div>
+        <div class="row">
+            <div class="col-md-4">
+                    <div class="about-text">
+                    <h4>What We Do</h4>
+                    <p>We do school things</p>
+                    <ul>
+                        <li>Li this is</li>
+                        <li>Another li</li>
+                        <li>And another li!</li>
+                        <li>And another li!!</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  
+<!-- Not official Athletics page! Just a preview for scrolling down and cards! -->
+<div id="athletics" style="height:100%;">
+    <div class="athletics-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h1><span class="styled-heading">Athletics</span></h1>
+                    
+                    <div class="card" ontouchstart="this.classList.toggle('hover')">
+                        <div class="flipper">
+                            <div class="front text-center">
+                                <img src="assets/athletics/football.jpg" alt="Avatar" style="width:100%; height:78%;">
+                                <h4><b>Front Title</b></h4>
+                                <p>Front Info</p>
+                            </div>
+                            <div class="back text-center">
+                                <h4><b>Back Title</b></h4>
+                                <p>Back Info</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+
