@@ -13,3 +13,5 @@ Artwork Requests: https://docs.google.com/a/usd402.com/document/d/1y25fXzMZ01kI_
 Drone Vids and Pics: https://drive.google.com/open?id=0B5EZ4ffaeJr8UVNia1dIYUhLc0E
 
 General Info Log: https://docs.google.com/a/usd402.com/spreadsheets/d/1zyEA2qwu2gSL_wamupUgRdAdTlaEvRKbH85Hw_GT7hw/edit?usp=sharing
+
+Activities Log: https://docs.google.com/a/usd402.com/spreadsheets/d/1jnyhgBEyKPq8H_KAwTmxPG2xkLBKpLKCPacbwFwodEE/edit?usp=sharing
