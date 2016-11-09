@@ -17,3 +17,5 @@ General Info Log: https://docs.google.com/a/usd402.com/spreadsheets/d/1zyEA2qwu2
 Art Log:https://drive.google.com/open?id=1nd5UcBEzDsWHUbDRh_Au460Mk-R3rhG5ki966plm8v0 
 
 Activities Log: https://docs.google.com/a/usd402.com/spreadsheets/d/1jnyhgBEyKPq8H_KAwTmxPG2xkLBKpLKCPacbwFwodEE/edit?usp=sharing6
+
+Staff Log: https://docs.google.com/a/usd402.com/spreadsheets/d/17VuS7tJ6ooCywkKN49NDU-ixXq6n9-ne26KenIoKH3g/edit?usp=sharing
