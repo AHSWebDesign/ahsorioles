@@ -21,3 +21,5 @@ Activities Log: https://docs.google.com/a/usd402.com/spreadsheets/d/1jnyhgBEyKPq
 Staff Log: https://docs.google.com/a/usd402.com/spreadsheets/d/17VuS7tJ6ooCywkKN49NDU-ixXq6n9-ne26KenIoKH3g/edit?usp=sharing
 
 Athletics Log: https://drive.google.com/open?id=1Z94sXNWkkMnk003ZH1z6Ky80RpAeBFsHKp4yQx3U6Qk
+
+Counselor's Log: https://docs.google.com/a/usd402.com/spreadsheets/d/12J_qc83TguMmbmPYkUyqbt5abLCIqXXKw8AORtnDGbA/edit?usp=sharing
