@@ -13,6 +13,7 @@ Artwork Requests: https://docs.google.com/a/usd402.com/document/d/1y25fXzMZ01kI_
 Drone Vids and Pics: https://drive.google.com/open?id=0B5EZ4ffaeJr8UVNia1dIYUhLc0E
 
 Database Resource: https://documentation.cpanel.net/display/ALD/MySQL+Databases#
+
 Database Online Videos: https://drive.google.com/open?id=0B5EZ4ffaeJr8LVg0ZldHX3o3M00
 
 LOGS:
