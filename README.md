@@ -8,7 +8,7 @@ Shared Pictures: https://drive.google.com/open?id=0B5EZ4ffaeJr8Y1c4R3F4VG5hNlU
 
 Orioles: https://drive.google.com/open?id=0B5EZ4ffaeJr8dnRDeU9GWlJpLW8
 
-Artwork Requests: https://docs.google.com/a/usd402.com/document/d/1y25fXzMZ01kI_jTEUGGDpA0ct2NyK-Gd2newP9UfYXk/edit?usp=sharing
+Artwork Requests: https://docs.google.com/a/usd402.com/forms/d/e/1FAIpQLScxEnXYhVT-D_3rimLDQjb0uh0f5qXJGW7N_tDu8m41CBaiUg/viewform
 
 Drone Vids and Pics: https://drive.google.com/open?id=0B5EZ4ffaeJr8UVNia1dIYUhLc0E
 
