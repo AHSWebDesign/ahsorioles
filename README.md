@@ -4,6 +4,8 @@ This is our high school website...a definite work in progress.
 Hexcodes to use for certain colors:
 Orange #f05b22
 
+Page Checkin/out: https://docs.google.com/a/usd402.com/forms/d/e/1FAIpQLScWi6VAAcTpxKEZ-EdQKq0evQaq22euQIxJ_aFvgnWxk_HLmw/viewform
+
 Shared Pictures: https://drive.google.com/open?id=0B5EZ4ffaeJr8Y1c4R3F4VG5hNlU
 
 Picture Resizing: https://drive.google.com/drive/folders/0B5EZ4ffaeJr8bFJGU0lDbFA0Ym8?usp=sharing
